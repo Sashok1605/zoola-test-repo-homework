@@ -1,1 +1,1 @@
-I want to resolve conflict
+I want to change conflict
